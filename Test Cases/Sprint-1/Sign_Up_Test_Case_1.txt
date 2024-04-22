@@ -1,0 +1,5 @@
+User needs to enter a username which is a non-empty string not present in the database.
+
+Username not in database:	Valid username
+Username in database: 		Invalid username
+Username is empty:		Invalid username

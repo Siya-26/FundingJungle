@@ -1,0 +1,4 @@
+User needs to enter a password which is a non-empty string.
+
+Password is not empty:	Valid password
+Password is empty:	Invalid password

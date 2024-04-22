@@ -1,0 +1,7 @@
+User needs to enter a password which is a non-empty string that matches the password corresponding to the username in the database. If the username is invalid, the password is always invalid.
+
+Password matches username:		Valid password
+Password does not match username:	Invalid password
+Password empty:				Invalid password
+Username invalid:			Invalid password
+			
