@@ -2,4 +2,4 @@ Sprint-1
 
 Mockup: https://www.figma.com/file/dxVyQkAr8AUThVGZXVUsy3/FundingRequestManagementMockup?type=design&node-id=0-1&mode=design&t=bMUV6LObBif5rxzu-0
 Prototype: https://www.figma.com/file/LAAque1rSepMGBRbMXj8DJ/login-signup?type=design&node-id=0-1&mode=design&t=pyjANFyUYCP5Lrrc-0
-User stories: 
+User stories: https://funding-request-management.atlassian.net/jira/software/projects/SOF/boards/3
